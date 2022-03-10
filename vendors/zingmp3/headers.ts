@@ -1,0 +1,4 @@
+export default {
+    'User-Agent' : 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36',
+    'Cookie' : 'zmp3_app_version.1=140; __zi=2000.SSZzejyD0jSbZUgxWaGPoJIFlgNCIW6BQ9sqkzu84vrwakgms41Rc7IHxBpGGnMHSfUZkzT6495rawQ_.1; __zi-legacy=2000.SSZzejyD0jSbZUgxWaGPoJIFlgNCIW6BQ9sqkzu84vrwakgms41Rc7IHxBpGGnMHSfUZkzT6495rawQ_.1; _zlang=vn; _ga=GA1.2.1166808029.1633616667; _gid=GA1.2.1438426909.1633616667; adtimaUserId=2000.SSZzejyD0jSbZUgxWaGPoJIFlgNCIW6BQ9sqkzu84vrwakgms41Rc7IHxBpGGnMHSfUZkzT6495rawQ_.1; adtima-popup-lastdisplay=1633621801463; zpsid=; zmp3_rqid=MHwxNzEdUngMjM3LjIxNS4xMzB8djEdUngNC4wfDE2MzM2NzY2NTg5OTg'
+}

@@ -1,0 +1,26 @@
+{
+  "name": "getlink",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios-cookiejar-support": "^2.0.2",
+    "crypto-js": "^4.1.1",
+    "express": "^4.17.1",
+    "express-response-formatter": "^2.0.2",
+    "got": "^11.8.2",
+    "jssoup": "0.0.15",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "@types/crypto-js": "^4.0.2",
+    "@types/express": "^4.17.13",
+    "@types/node": "^16.10.3",
+    "@types/tough-cookie": "^4.0.1"
+  }
+}
